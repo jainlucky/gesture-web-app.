@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(144, 242, 255);
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Dancing Script', cursive;
+}
+#p1{
+    background-color: lightsalmon;
+}
+#gesture{
+    background-color: navajowhite;
+}
+#trainedgesture{
+    background-color: orangered;
+}
+#div1{
+    float:left;
+}
+#div2{
+    float:right;
+}
